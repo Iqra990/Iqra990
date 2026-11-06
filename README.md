@@ -82,6 +82,31 @@ Independent research project. Self-collected and manually annotated a 324-image 
 ![Smart Agriculture](https://img.shields.io/badge/Smart%20Agriculture-556B2F?style=flat-square)
 ![Traceability](https://img.shields.io/badge/Food%20Traceability-8B4513?style=flat-square)
 
+**AI Vision & Machine Learning**
+![AI Vision](https://img.shields.io/badge/AI%20Vision-FF6F00?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-512BD4?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-8A2BE2?style=flat-square)
+
+**Web & Marketing**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Marketing Strategy](https://img.shields.io/badge/Marketing%20Strategy-FF6584?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4169E1?style=flat-square)
+
+---
+
+## Certifications & Trainings
+
+- 🤖 **Fundamentals of AI** — Online Course
+- 🤖 **Basics of AI** — Online Course
+- 💻 **Basic Computer Science** — Online Course
+- 🧠 **Machine Learning** — Online Course
+- ✍️ **Prompt Engineering** — Online Course
+- ☁️ **Microsoft Azure AI/ML** — Model training & evaluation
+- 🌿 **IPM Strategies to Ensure Food Safety** — One-Day Workshop, Department of Food Safety & Quality Management, BZU (Dec 14, 2023)
+- 🗣️ **English Proficiency Certificate** — Bahauddin Zakariya University
+
 ---
 
 ## Education
@@ -105,8 +130,6 @@ Supervised and instructed students on AI project work, guiding practical applica
 
 - 🏆 Prime Minister's Laptop Scheme awardee (2014) — Government of Pakistan merit-based award
 - 🥇 Consistently ranked among the top 4 students academically throughout university
-- 📜 English Proficiency Certificate, Bahauddin Zakariya University
-- 📜 Workshop: IPM Strategies to Ensure Food Safety, BZU (Dec 2023)
 
 ---
 
