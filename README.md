@@ -1,13 +1,15 @@
 <div align="center">
 
-# Iqra Hassan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C5E,100:2E8B57&height=180&section=header&text=Iqra%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20Researcher%20%7C%20Smart%20Food%20%26%20Smart%20Agriculture&descAlignY=55&descSize=18" width="100%"/>
 
-### Computer Vision Researcher · Food Safety & Quality Management (MPhil) · Smart Agriculture & Smart Food Systems
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=AI+Vision+for+Smart+Food+%26+Smart+Agriculture;YOLOv11+%7C+RF-DETR+%7C+Computer+Vision+Research;Food+Safety+%26+Quality+Management+(MPhil);Fighting+Food+Fraud+with+AI+%2B+Blockchain" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-officialiqrahassan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:officialiqrahassan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-h-79107a38a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Iqra990-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Iqra990)
 [![Location](https://img.shields.io/badge/Based%20in-Multan%2C%20Pakistan-555555?style=flat-square)](#)
+
+<img src="https://komarev.com/ghpvc/?username=Iqra990&style=flat-square&color=2E8B57&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -91,8 +93,13 @@ Independent research project. Self-collected and manually annotated a 324-image 
 **Web & Marketing**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-00C853?style=flat-square)
 ![Marketing Strategy](https://img.shields.io/badge/Marketing%20Strategy-FF6584?style=flat-square)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4169E1?style=flat-square)
+
+**Leadership & Professional**
+![Team Management](https://img.shields.io/badge/Team%20Management-6A5ACD?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-20B2AA?style=flat-square)
 
 ---
 
@@ -133,7 +140,17 @@ Supervised and instructed students on AI project work, guiding practical applica
 
 ---
 
+## Hobbies & Interests
+
+- 📚 Book Reading
+- 🏸 Badminton
+- 🧑‍🤝‍🧑 Team Management
+
+---
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1A3C5E&height=120&section=footer"/>
 
 ### Open to postgraduate research collaboration in AI Vision × Food Science × Smart Agriculture
 
